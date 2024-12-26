@@ -1,6 +1,6 @@
 # Simple Weather App 🌦️
 
-This is a simple Python-based weather application that fetches real-time weather data using the OpenWeatherMap API. It demonstrates the basic concepts of Python, such as API integration, handling JSON responses, and displaying data in a user-friendly way.
+This is a simple Python-based weather application that fetches real-time weather data using the OpenWeatherMap API. It demonstrates the basic concepts of Python, API integration, handling JSON responses, and displaying data in a user-friendly way through Python Interface.
 
 ## Screenshot
 
